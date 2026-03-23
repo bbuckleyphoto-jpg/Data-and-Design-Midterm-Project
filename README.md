@@ -1,2 +1,3 @@
 # Data-and-Design-Midterm-Project
 A project for Midterm Project
+a brief description of my project...
